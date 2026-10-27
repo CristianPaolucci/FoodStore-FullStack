@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nombre": "Admin",
+    "apellido": "Principal",
+    "mail": "admin@foodstore.com",
+    "celular": "1100000000",
+    "password": "admin123",
+    "rol": "ADMIN"
+  },
+  {
+    "id": 2,
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "mail": "juan@mail.com",
+    "celular": "1122334455",
+    "password": "user123",
+    "rol": "USUARIO"
+  },
+  {
+    "id": 3,
+    "nombre": "María",
+    "apellido": "Gómez",
+    "mail": "maria@mail.com",
+    "celular": "1199887766",
+    "password": "user123",
+    "rol": "USUARIO"
+  }
+]

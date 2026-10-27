@@ -1,0 +1,35 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'com.tp'
+version = '1.0-SNAPSHOT'
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_17
+    targetCompatibility = JavaVersion.VERSION_17
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // JPA API
+    implementation 'jakarta.persistence:jakarta.persistence-api:3.1.0'
+    // Hibernate (proveedor JPA)
+    implementation 'org.hibernate.orm:hibernate-core:6.4.4.Final'
+    // H2 Database (archivo)
+    implementation 'com.h2database:h2:2.2.224'
+    // Logging básico
+    implementation 'org.slf4j:slf4j-simple:2.0.13'
+}
+
+application {
+    mainClass = 'com.tp.jpa.Main'
+}
+
+tasks.named('run') {
+    standardInput = System.in
+}

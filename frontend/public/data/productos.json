@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "nombre": "Hamburguesa Triple Smash",
+    "precio": 25000,
+    "descripcion": "Tres medallones de carne smash, cheddar derretido, panceta y salsa de la casa.",
+    "stock": 12,
+    "imagen": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800&q=80",
+    "disponible": true,
+    "eliminado": false,
+    "categoriaId": 1
+  },
+  {
+    "id": 2,
+    "nombre": "Cheeseburger Clásica",
+    "precio": 14500,
+    "descripcion": "Medallón 150g, cheddar, lechuga, tomate y pickles en pan brioche.",
+    "stock": 25,
+    "imagen": "https://images.unsplash.com/photo-1550317138-10000687a72b?w=800&q=80",
+    "disponible": true,
+    "eliminado": false,
+    "categoriaId": 1
+  },
+  {
+    "id": 3,
+    "nombre": "Pizza Margarita",
+    "precio": 18000,
+    "descripcion": "Salsa de tomate San Marzano, mozzarella fior di latte y albahaca fresca.",
+    "stock": 10,
+    "imagen": "https://images.unsplash.com/photo-1604068549290-dea0e4a305ca?w=800&q=80",
+    "disponible": true,
+    "eliminado": false,
+    "categoriaId": 2
+  },
+  {
+    "id": 4,
+    "nombre": "Pizza Pepperoni",
+    "precio": 21000,
+    "descripcion": "Mozzarella, pepperoni picante y orégano. Masa madre 48hs.",
+    "stock": 8,
+    "imagen": "https://images.unsplash.com/photo-1628840042765-356cda07504e?w=800&q=80",
+    "disponible": true,
+    "eliminado": false,
+    "categoriaId": 2
+  },
+  {
+    "id": 5,
+    "nombre": "Spaghetti Carbonara",
+    "precio": 16500,
+    "descripcion": "Pasta fresca con huevo, panceta ahumada, pecorino y pimienta negra.",
+    "stock": 14,
+    "imagen": "https://images.unsplash.com/photo-1612874742237-6526221588e3?w=800&q=80",
+    "disponible": true,
+    "eliminado": false,
+    "categoriaId": 3
+  },
+  {
+    "id": 6,
+    "nombre": "Ravioles de Ricota",
+    "precio": 15000,
+    "descripcion": "Ravioles caseros rellenos de ricota y espinaca, salsa fileto.",
+    "stock": 9,
+    "imagen": "https://images.unsplash.com/photo-1587740908075-9e245070dfaa?w=800&q=80",
+    "disponible": true,
+    "eliminado": false,
+    "categoriaId": 3
+  },
+  {
+    "id": 7,
+    "nombre": "Ensalada César",
+    "precio": 11000,
+    "descripcion": "Lechuga romana, pollo grillado, croutons, parmesano y aderezo césar.",
+    "stock": 18,
+    "imagen": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?w=800&q=80",
+    "disponible": true,
+    "eliminado": false,
+    "categoriaId": 4
+  },
+  {
+    "id": 8,
+    "nombre": "Bowl Mediterráneo",
+    "precio": 12500,
+    "descripcion": "Quinoa, garbanzos, pepino, tomate cherry, feta y aderezo de limón.",
+    "stock": 15,
+    "imagen": "https://images.unsplash.com/photo-1505253758473-96b7015fcd40?w=800&q=80",
+    "disponible": true,
+    "eliminado": false,
+    "categoriaId": 4
+  },
+  {
+    "id": 9,
+    "nombre": "Brownie con Helado",
+    "precio": 7500,
+    "descripcion": "Brownie tibio de chocolate amargo con bocha de helado de crema.",
+    "stock": 20,
+    "imagen": "https://images.unsplash.com/photo-1564355808539-22fda35bed7e?w=800&q=80",
+    "disponible": true,
+    "eliminado": false,
+    "categoriaId": 5
+  },
+  {
+    "id": 10,
+    "nombre": "Cheesecake de Frutos Rojos",
+    "precio": 8500,
+    "descripcion": "Cremoso cheesecake con base de galleta y coulis de frutos rojos.",
+    "stock": 0,
+    "imagen": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=800&q=80",
+    "disponible": false,
+    "eliminado": false,
+    "categoriaId": 5
+  },
+  {
+    "id": 11,
+    "nombre": "Coca-Cola 500ml",
+    "precio": 3500,
+    "descripcion": "Botella retornable bien fría.",
+    "stock": 50,
+    "imagen": "https://images.unsplash.com/photo-1554866585-cd94860890b7?w=800&q=80",
+    "disponible": true,
+    "eliminado": false,
+    "categoriaId": 6
+  },
+  {
+    "id": 12,
+    "nombre": "Limonada de la Casa",
+    "precio": 4200,
+    "descripcion": "Limón, jengibre y menta fresca. Jarra para compartir.",
+    "stock": 22,
+    "imagen": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=800&q=80",
+    "disponible": true,
+    "eliminado": false,
+    "categoriaId": 6
+  }
+]
