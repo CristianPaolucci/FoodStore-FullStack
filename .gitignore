@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+
+# Gradle / Java Build
+backend/build/
+backend/.gradle/
+backend/out/
+
+# Base de datos local
+*.db
+backend/data/
+
+# Frontend Node / Bun
+frontend/node_modules/
+frontend/dist/
+frontend/.workspace/
